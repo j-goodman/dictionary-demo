@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
+
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    justify-content: center;
+    font-size: 3em;
+}
+
+input {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 1.5em;
+    height: 80px;
+    width: 600px;
+}
+
+div {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 600px;
+}
